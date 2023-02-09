@@ -3,17 +3,23 @@
 
 ### Hi! Welcome to my github page!
 
-My name is Joaquim, I have a background in Aerospace Engineering, with a Masters from University of Bristol. Despite my background, I am currently trying to pivot my career towards Data Science. One of the main reasons I changed paths is because I love coding and programming, and I try to apply my knowledge into real life problems. 
-Consequently, I am currently on my way to be a proficient Data Scientist. Thanks to the training from the AI Core Data Science program and the IBM Data Science Certificate, which trained me in the creation and deployment of AI practices, including building data pipelines, data cleaning, data analyisis, data viusalisation, deep learning, cloud, CI/CD and more<br>
+My name is Joaquim, I have a Master's degree in Aerospace Engineering from the University of Bristol, and despite my background, I am currently trying to pivot my career towards Data Science. 
+One of the main reasons I changed paths is that I love coding and programming, and I try to apply my knowledge to real-life problems. 
+Consequently, through the AI Core Data Science program and the IBM Data Science Certificate, I have gained training in various aspects of AI, including building data pipelines, performing data cleaning, analyzing data, creating visualizations, working with deep learning, utilizing the cloud, and implementing CI/CD.<br>
 
 Among my main set of skills, I would highlight:<br>
 
-🐍 Python <br>
-🔧 Engineering <br>
-📊 Machine Learning <br>
-🤖 Deep Learning (Tensorflow and Pytorch) <br>
+- Python <br>
+- Engineering <br>
+- Machine Learning <br>
+- Deep Learning (Tensorflow and Pytorch) <br>
 
-I hope you like my github page, this is a collection of my personal projects as well as some projects that I worked along with some colleagues at Univeristy, during the IBM Data Science Certificate and the AI Core fellowship.<br>
+Some of the main tools I would highlight too are:
+
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</a> <a href="https://www.docker.com/company/newsroom/media-resources/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="45" height="40"/> </a></p>
+
+I hope you like my GitHub page. It is a collection of my personal projects plus some other projects that I worked on at university, during the IBM Data Science Certificate and at AiCore<br>
 
 If you have any question about any repo, or want to contact me, don't hesitate to:<br>
 
