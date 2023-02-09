@@ -10,7 +10,7 @@ Consequently, through the AI Core Data Science program and the IBM Data Science 
 ## Programming Languages:
 
 Python / Matlab / SQL / C / C++ (Arduino)
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/images/621f8f94654abf384c30d63c.png" alt="Matlab logo" itemprop="contentUrl">
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> <img src="https://assets.stickpng.com/images/621f8f94654abf384c30d63c.png" alt="Matlab logo" itemprop="contentUrl">
 
 
 Some of the main tools I would highlight too are:
