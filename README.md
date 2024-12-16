@@ -29,14 +29,6 @@ Some of the main tools I would highlight too are:
 <a href="https://aws.amazon.com/?nc2=h_lg"><img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" alt="Powered by AWS Cloud Computing" width="110" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  </p>
 
-Among my main set of skills, I would highlight:<br>
-
-- Python <br>
-- Engineering <br>
-- Machine Learning <br>
-- Deep Learning (Tensorflow and Pytorch) <br>
-
-I hope you like my GitHub page. It is a collection of my personal projects plus some other projects that I worked on at university, during the IBM Data Science Certificate and at AiCore<br>
 
 If you have any question about any repo, or want to contact me, don't hesitate to:<br>
 
