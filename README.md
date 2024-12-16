@@ -3,9 +3,7 @@
 
 ### Hi! Welcome to my github page!
 
-My name is Joaquim, I have a Master's degree in Aerospace Engineering from the University of Bristol, and despite my background, I am currently trying to pivot my career towards Data Science. 
-One of the main reasons I changed paths is that I love coding and programming, and I try to apply my knowledge to real-life problems. 
-Consequently, through the AI Core Data Science program and the IBM Data Science Certificate, I have gained training in various aspects of AI, including building data pipelines, performing data cleaning, analyzing data, creating visualizations, working with deep learning, utilizing the cloud, and implementing CI/CD.<br>
+I’m Joaquim, a Master's graduate in Aerospace Engineering from the University of Bristol. Here you'll find a collection of personal projects from my university studies, along with work from courses and bootcamps that have helped me expand my skills in data science and software development.
 
 ### Programming Languages:
 
